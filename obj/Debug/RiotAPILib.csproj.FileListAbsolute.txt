@@ -1,0 +1,7 @@
+D:\git\wechat-console\RiotAPI\RiotAPILib\bin\Debug\RiotAPILib.dll
+D:\git\wechat-console\RiotAPI\RiotAPILib\bin\Debug\RiotAPILib.pdb
+D:\git\wechat-console\RiotAPI\RiotAPILib\bin\Debug\Newtonsoft.Json.dll
+D:\git\wechat-console\RiotAPI\RiotAPILib\bin\Debug\Newtonsoft.Json.xml
+D:\git\wechat-console\RiotAPI\RiotAPILib\obj\Debug\RiotAPILib.dll
+D:\git\wechat-console\RiotAPI\RiotAPILib\obj\Debug\RiotAPILib.pdb
+D:\git\wechat-console\RiotAPI\RiotAPILib\obj\Debug\RiotAPILib.csprojResolveAssemblyReference.cache
